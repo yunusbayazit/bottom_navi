@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_gezi"
+        icon="@drawable/t"
+        title="Gezilecek Yerler"
+        />
+    />
+    <tab
+        id="@+id/tab_mekan"
+        icon="@drawable/plac"
+        title="Mekan"
+       />
+    <tab
+        id="@+id/tab_yemek"
+        icon="@drawable/food"
+        title="Yemek" />
+    <tab
+        id="@+id/tab_alisveris"
+        icon="@drawable/shopping"
+        title="Alışveriş" />
+</tabs>

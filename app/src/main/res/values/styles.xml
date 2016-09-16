@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#27BFF2</item>
+        <item name="colorPrimaryDark">#27BFF2</item>
+        <item name="colorAccent">#27BFF2</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="BB_BottomBarItem_TitleStyle"> <item name="android:maxLines">1</item> <item name="android:height">24dp</item> <item name="android:gravity">center_horizontal</item> </style>
+    <style name="AppTheme.TransNav" parent="AppTheme" />
+</resources>
